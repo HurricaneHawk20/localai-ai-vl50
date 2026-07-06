@@ -1,4 +1,4 @@
-# 
+# Personnalisé LocalAI scripts. Avec fine-tuning et indexation des données — optimisé pour des performances et une efficacité maximales.
 
 
 
